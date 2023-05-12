@@ -1,0 +1,5 @@
+﻿  game_of_life.cpp
+C:\Users\lukac\source\repos\SPADZ2-LukaCucuk\SPADZ2-LukaCucuk\game_of_life.cpp(18,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  program.cpp
+  Generating Code...
+  SPADZ2-LukaCucuk.vcxproj -> C:\Users\lukac\source\repos\SPADZ2-LukaCucuk\x64\Debug\SPADZ2-LukaCucuk.exe
