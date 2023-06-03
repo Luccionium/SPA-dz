@@ -1,0 +1,5 @@
+﻿  DijkstraShortestPath.cpp
+C:\Users\lukac\source\repos\SPADZ-03-LukaCucuk\SPADZ-03-LukaCucuk\DijkstraShortestPath.cpp(114,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+  SPADZ-03-LukaCucuk.vcxproj -> C:\Users\lukac\source\repos\SPADZ-03-LukaCucuk\x64\Debug\SPADZ-03-LukaCucuk.exe
